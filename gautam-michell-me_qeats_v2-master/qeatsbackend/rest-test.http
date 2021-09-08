@@ -1,0 +1,1 @@
+get http://localhost:8081/qeats/v1/restaurants?lat=13.038433&lng=80.27293
